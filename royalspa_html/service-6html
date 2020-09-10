@@ -123,7 +123,7 @@ section.pricing-panel.a {
     <header class="page-header" id="panelHeader">
       <nav class="navbar navbar-default" id="navbar">
         <div class="navbar__topline">
-          <div class="navbar-header container"><a class="navbar-brand" href="index-2.html"><img class="logo svg img-responsive" src="assets/img/logo.svg" alt="Welcome to V.Star"/></a><a class="navbar__toggle-reservation button" href="#" data-toggle="modal" data-target="#modal-inquiry"><i class="fa fa-bookmark-o"></i>V.Star</a><a class="menu-trigger visible-xs" id="trigger" href="#" role="button"><span class="menu-trigger__elem"></span></a>
+          <div class="navbar-header container"><a class="navbar-brand" href="index.html"><img class="logo svg img-responsive" src="assets/img/logo.svg" alt="Welcome to V.Star"/></a><a class="navbar__toggle-reservation button" href="#" data-toggle="modal" data-target="#modal-inquiry"><i class="fa fa-bookmark-o"></i>V.Star</a><a class="menu-trigger visible-xs" id="trigger" href="#" role="button"><span class="menu-trigger__elem"></span></a>
             <ul class="social-list pull-right hidden-xs">
               <li><a class="fa-stack fa-lg" href="#"><i class="fa fa-circle fa-stack-2x"></i><i class="icon fa fa-instagram fa-stack-1x fa-inverse"></i></a></li>
               <li><a class="fa-stack fa-lg" href="#"><i class="fa fa-circle fa-stack-2x"></i><i class="icon fa fa-facebook fa-stack-1x fa-inverse"></i></a></li>
@@ -216,7 +216,7 @@ section.pricing-panel.a {
       <div class="breadcrumbs-wrapper" id="breadcrumbs">
         <div class="container">
           <ol class="breadcrumb">
-            <li><a href="index-2.html">V.Star Spa</a></li>
+            <li><a href="index.html">V.Star Spa</a></li>
             <li class="active"><span>Dịch vụ</span></li>
           </ol>
         </div>
